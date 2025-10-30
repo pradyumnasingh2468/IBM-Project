@@ -41,7 +41,7 @@ A predictive classification model that accurately identifies calorie burn level 
 
 Final_data.csv – Input dataset
 
-Calorie_Classification.str – SPSS Modeler stream file
+IBMProject.str – SPSS Modeler stream file
 
 README.md – Project documentation
 
